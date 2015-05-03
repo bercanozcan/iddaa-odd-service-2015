@@ -1,5 +1,5 @@
 # iddaa-xml-service-2015
 
-İddaa XML Service 2015
+İddaa XML/jSON Service 2015
 
-Tüm iddaa etkinliklerine erişebileceğiniz iddaa botu.
+NodeJS ve MongoDB kullanarak çok hızlı bir şekilde tüm iddaa etkinliklerine erişebileceğiniz botu.
