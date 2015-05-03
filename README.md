@@ -2,4 +2,4 @@
 
 İddaa XML Service 2015
 
-Tüm İddaa Etkinlikleri
+Tüm iddaa etkinliklerine erişebileceğiniz iddaa botu.
