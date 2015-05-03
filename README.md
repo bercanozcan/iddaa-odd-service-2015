@@ -2,4 +2,4 @@
 
 İddaa XML/jSON Servisi 2015
 
-NodeJS ve MongoDB kullanarak çok hızlı bir şekilde tüm iddaa etkinliklerine erişebileceğiniz botu.
+NodeJS ve MongoDB kullanarak çok hızlı bir şekilde tüm iddaa etkinliklerine erişebileceğiniz bot.
